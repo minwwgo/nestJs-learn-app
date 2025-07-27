@@ -16,7 +16,7 @@ var user = {
 
 console.log("User:", user);
 
-var user.age=34;
+user.age=34;
 console.log("Updated User:", user);
 
 
